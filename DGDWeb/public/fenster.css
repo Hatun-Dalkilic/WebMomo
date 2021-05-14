@@ -1,0 +1,31 @@
+@charset "utf-8";
+
+html {
+	background-image: linear-gradient(to right, #A9D0F5, white, #EFF5FB, #A9D0F5);
+}
+
+.bildDiv {
+	align-items: center;
+	margin: auto;
+	width: 700px;
+	padding-top: 50px;
+	padding-left: 80px;
+}
+
+.bildDiv img {
+	
+	width: 300px;
+	height: 300px;	
+	box-shadow: 10px 15px 25px #ffffff;
+	border: solid #A9D0F5;
+}
+
+.bildDiv p {
+	color: black;
+	font-size: 100%;
+}
+
+
+
+
+
